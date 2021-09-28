@@ -1,0 +1,16 @@
+﻿Curl Commands
+
+
+curl -d '{ "name": “Ethan" }' http://example.com
+
+
+curl -A "I am your father" http://example.com
+
+
+curl --no-verbose http://example.com
+
+
+curl -darbitrary http://example.com
+
+
+curl -v -L http://example.com
